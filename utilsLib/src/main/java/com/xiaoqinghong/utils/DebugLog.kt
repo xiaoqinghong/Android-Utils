@@ -16,6 +16,11 @@ object DebugLog {
         Log.e(tag, message)
     }
 
+    fun e(e: Throwable?) {
+        if (!BuildConfig.DEBUG) return
+        e?.printStackTrace()
+    }
+
     fun i(tag: String, message: String) {
         if (!BuildConfig.DEBUG) return
         Log.i(tag, message)
