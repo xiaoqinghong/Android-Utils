@@ -15,5 +15,14 @@ dependencies {
     implementation 'com.gitee.xiaoqinghong:Android-Utils:latest_version'
 }
 ```
-### 开源协议
-[MIT License]("./LICENSE")
+### Utils列表
+- SharedPrefrenceManager 操作SharedPrefrence
+- ArrayUtil 关于列表
+- ClipUtil 剪切板管理，复制到剪切板、从剪切板读取等
+- DataTransUtil 当页面传值数据了过大，使用object来页面传值
+- DebugLog 调试信息
+- ScreenUtil 布局截图、像素单位转换等
+- StatusBarUtil 状态栏工具
+- StringUtil 字符串操作工具
+- ThreadExUtil 判断是否UI线程等
+### 开源协议（MIT License）
