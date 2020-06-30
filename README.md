@@ -15,3 +15,5 @@ dependencies {
     implementation 'com.gitee.xiaoqinghong:Android-Utils:latest_version'
 }
 ```
+### 开源协议
+[MIT License]("./LICENSE")
