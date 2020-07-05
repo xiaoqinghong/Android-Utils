@@ -12,7 +12,7 @@ allprojects {
 
 2.引入依赖
 dependencies {
-    implementation 'com.gitee.xiaoqinghong:Android-Utils:latest_version'
+    implementation 'com.github.xiaoqinghong:Android-Utils:latest_version'
 }
 ```
 ### Utils列表
