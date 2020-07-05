@@ -1,4 +1,4 @@
-# Android-Utils[![](https://jitpack.io/v/com.gitee.xiaoqinghong/Android-Utils.svg)](https://jitpack.io/#com.gitee.xiaoqinghong/Android-Utils)
+# Android-Utils[![](https://jitpack.io/v/xiaoqinghong/Android-Utils.svg)](https://jitpack.io/#xiaoqinghong/Android-Utils)
 **Android开发中一些常用的工具类(Androidx & Kotlin)，各种工具类持续集成中**
 ### 使用方式
 ```
